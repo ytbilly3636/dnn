@@ -1,1 +1,5 @@
 # dnn
+
+## Requirements
+
+- NumPy
